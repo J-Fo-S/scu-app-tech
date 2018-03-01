@@ -1,5 +1,7 @@
 # SCU - Applications in Information and 'Emergent' Technology
 
+## ATTENTION: You will need to learn to read effectively and for different purposes - sometimes previewing, skimming and scanning, and sometimes intensively. Please see [here for strategies on how to do so](https://student.unsw.edu.au/reading-strategies)
+
 ### Week 0
 
 Hello all, and welcome to the course. Before we begin exploring nascent and emerging technologies, let's aquaint ourselves with some knowledge resources for fundamental information technology. These resources will be essential for us to understand how emerging technologies will relate to information technology, information systems and business.
