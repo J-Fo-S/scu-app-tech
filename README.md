@@ -1,6 +1,6 @@
 # SCU - Applications in Information and 'Emergent' Technology
 
-## ATTENTION: You will need to learn to read effectively and for different purposes - sometimes previewing, skimming and scanning, and sometimes intensively. Please see [here for strategies on how to do so](https://student.unsw.edu.au/reading-strategies)
+## ATTENTION: You will need to learn to read effectively and for different purposes - sometimes previewing, skimming and scanning, and sometimes intensively. [Please review these strategies on how to do so](https://student.unsw.edu.au/reading-strategies)
 
 ### Week 0
 
