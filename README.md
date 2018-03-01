@@ -29,4 +29,6 @@ Let's imagine, for this instance, that you are a team of interns, and you have b
 
 Read the Saylor text chapters 1-2 and the MIT text until section 1.4. (And in case you were wondering, yes the MIT text is a more challenging read) 
 
+Enter, organize and format your data however it best makes sense to you [in this spreadsheet](https://docs.google.com/spreadsheets/d/1wp27CPZOgCh5gRY25ixhe5qgbm6cmxw_HAFr098hdjY/edit?usp=sharing) under the tab of your group (will assign in class). Include your names in the top row to get credit.
+
 
