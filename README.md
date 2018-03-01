@@ -1,4 +1,4 @@
-# SCU - Applications in 'Emergent' Technology
+# SCU - Applications in Information and 'Emergent' Technology
 
 ### Week 0
 
