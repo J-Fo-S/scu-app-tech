@@ -1,0 +1,1 @@
+class syllabus, other resources
