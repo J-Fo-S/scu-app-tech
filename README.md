@@ -56,4 +56,5 @@ The answer is no, and this is why information systems from a business (and socia
 
 With the bigger picture and its interconnected components now in mind, let's try our task again.
 
+Finally, let's apply our findings - which are still elementary - to a case study. In the Saylor text, from pages 9-12 a very general overview of information systems, people and business processes are given. The authors point out a hypothetical (perhaps wrongly so?) comparison of "good" vs "bad" information systems between some hospital, which we assume they mean any hospital, and Google Health. Regardless of the fairness of the comparison or not, I think we can now conceive of some reasons why 'some hospital' might not have a great information system. Make a list of areas 'some hospital' should focus on in order to improve their information system based on employee usage.
 
