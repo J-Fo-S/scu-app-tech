@@ -29,7 +29,7 @@ Also, in real life, business leaders and managers often have to make decisions a
 
 Let's imagine, for this instance, that you are a team of interns, and you have been tasked with creating a report that assesses a company's information systems. We'll get more specific later. First, you need to know the essential terminology, concepts and features that you will be assessing. In the week 1 folder there are 2 introductory texts: 1 by MIT and 1 by Saylor. You need to scan through each of these papers to list and categorize all key terms, concepts and features that you will include in your assessment. And you only have 90 minutes to do this. So break into groups of 4, divide responsibilities between you, and get as far as you can. Don't be overwhelmed though the information is overwhelming. Find the way to work together so you can accomplish more as a team than you can alone.  
 
-Read the Saylor text chapters 1-2 and the MIT text until section 1.4. (And in case you were wondering, yes the MIT text is a more challenging read) 
+<b>Read the Saylor text chapters 1 and the MIT text until section 1.4.</b> (And in case you were wondering, yes the MIT text is a more challenging read) 
 
 Enter, organize and format your data however it best makes sense to you [in this spreadsheet](https://docs.google.com/spreadsheets/d/1wp27CPZOgCh5gRY25ixhe5qgbm6cmxw_HAFr098hdjY/edit?usp=sharing) under the tab of your group (will assign in class). Include your names in the top row to get credit.
 
