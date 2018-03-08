@@ -39,14 +39,16 @@ Last week we simulated a task: students were interens and I, your humble instruc
 
 Taking a step back, it is clear that what we actually did was act as a real company - an organization of people - trying to use certain information systems in processes to achieve specific objectives. In particular, we had:
 
-1. Teams (you)
+<b>1. Teams (you)
 2. Direction (me)
 3. Objectives (assess information systems)
 4. Tasks (gather and organize information on information systems)
-5. Information System (Google Sheets, Github, online literature, computers, mobile devices)
-6. Processes (Github - application for linking information and tasks; Google sheets - application for entering and evaluating tasks)
-7. Time
-8. Cost
+5. IS Hardware (computer network, networked media display, computers, mobile devices)
+6. IS Software (Google Sheets, Github, online literature)
+7. Data (the information input, organized and stored)
+8. Processes (Github - application for linking information and tasks; Google sheets - application for entering and evaluating tasks)
+9. Time
+10. Cost</b>
 
 Since you now know our company's "information systems", let's assess them. Is there anything wrong with Google Sheets or Github, or are we even asking the right question?
 
