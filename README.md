@@ -35,7 +35,7 @@ Enter, organize and format your data however it best makes sense to you [in this
 
 ### Week 2 (Or, Week 1 2.0)
 
-Last week we simulated a task: students were interens and I, your humble instructor, was some manager-type employee at some company. I asked you to assess our company's information systems. And as this is a new field for you, the first task was to understand some of the fundamental terminology of information system features and concepts. You were to review some literature, and organize the information you found in a spreadsheet as a team. Seems like a doable task, yet the results were very mixed, to put it nicely. Also, the results were highly inconsistent - each team chose and organized their information in drastically different ways. There was no standard. If we were actually a company, and I a manager of many teams, then it is unlikely we would be very successful. So what went wrong?
+Last week we simulated a task: students were interns and I, your humble instructor, was some manager-type employee at some company. I asked you to assess our company's information systems. And as this is a new field for you, the first task was to understand some of the fundamental terminology of information system features and concepts. You were to review some literature, and organize the information you found in a spreadsheet as a team. Seems like a doable task, yet the results were very mixed, to put it nicely. Also, the results were highly inconsistent - each team chose and organized their information in drastically different ways. There was no standard. If we were actually a company, and I a manager of many teams, then it is unlikely we would be very successful. So what went wrong?
 
 Taking a step back, it is clear that what we actually did was act as a real company - an organization of people - trying to use certain information systems in processes to achieve specific objectives. In particular, we had:
 
@@ -52,7 +52,7 @@ Taking a step back, it is clear that what we actually did was act as a real comp
 
 Since you now know our company's "information systems", let's assess them. Is there anything wrong with Google Sheets or Github, or are we even asking the right question?
 
-What I mean is, is it useful to assess the information systems without also assessing the teams, direction/leadership, objectives, tasks hardwared, software, data, processes, time and costs that they are invovled with? 
+What I mean is, is it useful to assess the information systems without also assessing the teams, direction/leadership, objectives, tasks hardwared, software, data, processes, time and costs that they are involved with? 
 
 The answer is no, and this is why information systems from a business (and social) standpoint are about so much more than just the technology. And for us to be able to assess and understand information systems - and ironically complete our objectives in class successfully - we will need to assess each of these categories as part of the information systems.
 
