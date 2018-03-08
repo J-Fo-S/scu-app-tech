@@ -4,7 +4,7 @@
 
 ### Week 0
 
-Hello all, and welcome to the course. Before we begin exploring nascent and emerging technologies, let's aquaint ourselves with some knowledge resources for fundamental information technology. These resources will be essential for us to understand how emerging technologies will relate to information technology, information systems and business.
+Hello all, and welcome to the course. Before we begin, let's aquaint ourselves with some knowledge resources for fundamental information technology. These resources will be essential for us to understand how emerging technologies will relate to information technology, information systems and business.
 
 #### Online Community and Database Resources
 1. Wikipedia (of course)
@@ -39,7 +39,7 @@ Last week we simulated a task: students were interens and I, your humble instruc
 
 Taking a step back, it is clear that what we actually did was act as a real company - an organization of people - trying to use certain information systems in processes to achieve specific objectives. In particular, we had:
 
-<b>1. Teams (you)
+1. Teams (you)
 2. Direction (me)
 3. Objectives (assess information systems)
 4. Tasks (gather and organize information on information systems)
@@ -48,18 +48,18 @@ Taking a step back, it is clear that what we actually did was act as a real comp
 7. Data (the information input, organized and stored)
 8. Processes (Github - application for linking information and tasks; Google sheets - application for entering and evaluating tasks)
 9. Time
-10. Cost</b>
+10. Cost
 
 Since you now know our company's "information systems", let's assess them. Is there anything wrong with Google Sheets or Github, or are we even asking the right question?
 
-What I mean is, is it useful to assess the information systems without also assessing the teams, direction/leadership, objectives, tasks, processes, time and costs that they are invovled with?
+What I mean is, is it useful to assess the information systems without also assessing the teams, direction/leadership, objectives, tasks hardwared, software, data, processes, time and costs that they are invovled with? 
 
 The answer is no, and this is why information systems from a business (and social) standpoint are about so much more than just the technology. And for us to be able to assess and understand information systems - and ironically complete our objectives in class successfully - we will need to assess each of these categories as part of the information systems.
 
 With the bigger picture and its interconnected components now in mind, let's try our task again.
 
-Finally, let's apply our findings - which are still elementary - to a case study. In the Saylor text, from pages 9-12 a very general overview of information systems, people and business processes are given. The authors point out a hypothetical (perhaps unfairly so) comparison of "good" vs "bad" information systems between some hospital, which we assume they mean any hospital, and Google Health. Regardless of the fairness of the comparison or not, I think we can now conceive of some reasons why 'some hospital' might not have a great information system. Make a list of areas 'some hospital' should focus on in order to improve their information system based on employee usage.
+Next, let's apply our findings - which are still high-level - to a case study. In the Saylor text, in pages 9-12 a very general overview of information systems, people and business processes are given. The authors point out a hypothetical (perhaps unfairly so) comparison of "good" vs "bad" information systems between some hospital, which we assume they mean any hospital, and Google Health. Regardless of the fairness of the comparison or not, I think we can now conceive of some reasons why 'some hospital' might not have a great information system. Make a list of areas 'some hospital' should focus on in order to improve their information system based on employee usage.
 
-There will be an assignment due before next class, which is to use your newfound reading skills and read Chapter 2 of the Saylor text on Redesigning a Business Process. Then I would like you to read [this article](https://hbr.org/1976/11/how-effective-managers-use-information-systems) from the Harvard Business Review on how effective managers use information systems. The articels are quite different in purpose - the first describes redesigning a business process from the perspective of a information systems designer. The other describes using the information system as a manager. Your task is to compare similarities and contrast the differences. 
+<br>There is an assignment due before next class, which is to use your newfound reading skills and read Chapter 2 of the Saylor text on Redesigning a Business Process. Then I would like you to read [this article](https://hbr.org/1976/11/how-effective-managers-use-information-systems) from the Harvard Business Review on how effective managers use information systems. The articels are quite different in purpose - the first describes redesigning a business process from the perspective of a information systems designer. The other describes using the information system as a manager. Your task is to compare similarities and contrast the differences. 
 
-I will attach a Google Form for you to submit your answers to.
+I will attach a Google Form for you to submit your answers to.</br>
