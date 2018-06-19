@@ -14,6 +14,8 @@ See Session 11 wiki for instructions
 
 See assessment rubric above
 
+**IF YOU DIDN'T GET TO FINISH IN CLASS - [UPLOAD YOUR VIDEO HERE](https://goo.gl/forms/3sdzeM2jXQPHBf0h2) BY JUNE 21ST, 11:59 P.M.
+
 ### Core Assignment 2: IoT/Nanotech Article Extended Deadline June 21st at 11:59 p.m.
 
 See assessment rubric above
